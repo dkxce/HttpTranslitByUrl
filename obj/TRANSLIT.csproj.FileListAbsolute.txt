@@ -1,0 +1,10 @@
+C:\Downloads\CD-REC\TEMP\TRANSLIT\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\TEMP\TRANSLIT\bin\TRANSLIT.dll
+C:\Downloads\CD-REC\TEMP\TRANSLIT\bin\TRANSLIT.pdb
+C:\Downloads\CD-REC\TEMP\TRANSLIT\obj\Debug\TRANSLIT.dll
+C:\Downloads\CD-REC\TEMP\TRANSLIT\obj\Debug\TRANSLIT.pdb
+C:\PROJECTS\CSharp_Navicom\WEB_TRANSLIT_RU_EN\bin\TRANSLIT.dll
+C:\PROJECTS\CSharp_Navicom\WEB_TRANSLIT_RU_EN\bin\TRANSLIT.pdb
+C:\PROJECTS\CSharp_Navicom\WEB_TRANSLIT_RU_EN\obj\Debug\ResolveAssemblyReference.cache
+C:\PROJECTS\CSharp_Navicom\WEB_TRANSLIT_RU_EN\obj\Debug\TRANSLIT.dll
+C:\PROJECTS\CSharp_Navicom\WEB_TRANSLIT_RU_EN\obj\Debug\TRANSLIT.pdb
